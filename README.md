@@ -6,3 +6,7 @@ Currently, my wife and I are renting a great condo at a fair rate, but kind of w
 If it's better to buy, what should my price range be? Sure, I may be able to pay that mortgage every month, but how much money am I dumping towards interest, taxes, and insurance? Yeah, yeah, buying becomes advantageous once you hold on to the house for a few years. Well, exactly how many years does that take? What value are you assuming for home appreciation? How does it change with closing costs? Is the decision to rent or buy as simple as comparing your interest, taxes, and insurance to what you would be paying for rent?
 
 These are the questions I've been agonizing over and this jupyter notebook has helped me answer them.
+
+```sh
+test code block
+```
